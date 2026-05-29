@@ -25,7 +25,7 @@ This stage ensures that the dataset is accurate, consistent, and ready for analy
 
 🔸 Handling Null Values
 
-Null handling is a key part of data cleaning and was handled using multiple strategies:
+Null values handling is a key part of data cleaning and was handled using multiple strategies:
 
 Dropping null values when the missing data was minimal or not critical
 Filling null values with appropriate defaults depending on the column type
